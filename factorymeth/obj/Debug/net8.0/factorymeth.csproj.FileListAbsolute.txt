@@ -1,0 +1,14 @@
+G:\progmodules3\factorymeth\bin\Debug\net8.0\factorymeth.exe
+G:\progmodules3\factorymeth\bin\Debug\net8.0\factorymeth.deps.json
+G:\progmodules3\factorymeth\bin\Debug\net8.0\factorymeth.runtimeconfig.json
+G:\progmodules3\factorymeth\bin\Debug\net8.0\factorymeth.dll
+G:\progmodules3\factorymeth\bin\Debug\net8.0\factorymeth.pdb
+G:\progmodules3\factorymeth\obj\Debug\net8.0\factorymeth.GeneratedMSBuildEditorConfig.editorconfig
+G:\progmodules3\factorymeth\obj\Debug\net8.0\factorymeth.AssemblyInfoInputs.cache
+G:\progmodules3\factorymeth\obj\Debug\net8.0\factorymeth.AssemblyInfo.cs
+G:\progmodules3\factorymeth\obj\Debug\net8.0\factorymeth.csproj.CoreCompileInputs.cache
+G:\progmodules3\factorymeth\obj\Debug\net8.0\factorymeth.dll
+G:\progmodules3\factorymeth\obj\Debug\net8.0\refint\factorymeth.dll
+G:\progmodules3\factorymeth\obj\Debug\net8.0\factorymeth.pdb
+G:\progmodules3\factorymeth\obj\Debug\net8.0\factorymeth.genruntimeconfig.cache
+G:\progmodules3\factorymeth\obj\Debug\net8.0\ref\factorymeth.dll
