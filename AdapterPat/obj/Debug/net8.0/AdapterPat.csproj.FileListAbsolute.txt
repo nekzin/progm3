@@ -1,0 +1,14 @@
+G:\c# progmodules\AdapterPat\obj\Debug\net8.0\AdapterPat.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# progmodules\AdapterPat\obj\Debug\net8.0\AdapterPat.AssemblyInfoInputs.cache
+G:\c# progmodules\AdapterPat\obj\Debug\net8.0\AdapterPat.AssemblyInfo.cs
+G:\c# progmodules\AdapterPat\obj\Debug\net8.0\AdapterPat.csproj.CoreCompileInputs.cache
+G:\c# progmodules\AdapterPat\bin\Debug\net8.0\AdapterPat.exe
+G:\c# progmodules\AdapterPat\bin\Debug\net8.0\AdapterPat.deps.json
+G:\c# progmodules\AdapterPat\bin\Debug\net8.0\AdapterPat.runtimeconfig.json
+G:\c# progmodules\AdapterPat\bin\Debug\net8.0\AdapterPat.dll
+G:\c# progmodules\AdapterPat\bin\Debug\net8.0\AdapterPat.pdb
+G:\c# progmodules\AdapterPat\obj\Debug\net8.0\AdapterPat.dll
+G:\c# progmodules\AdapterPat\obj\Debug\net8.0\refint\AdapterPat.dll
+G:\c# progmodules\AdapterPat\obj\Debug\net8.0\AdapterPat.pdb
+G:\c# progmodules\AdapterPat\obj\Debug\net8.0\AdapterPat.genruntimeconfig.cache
+G:\c# progmodules\AdapterPat\obj\Debug\net8.0\ref\AdapterPat.dll
