@@ -1,0 +1,14 @@
+G:\c# progmodules\compozit\bin\Debug\net8.0\compozit.exe
+G:\c# progmodules\compozit\bin\Debug\net8.0\compozit.deps.json
+G:\c# progmodules\compozit\bin\Debug\net8.0\compozit.runtimeconfig.json
+G:\c# progmodules\compozit\bin\Debug\net8.0\compozit.dll
+G:\c# progmodules\compozit\bin\Debug\net8.0\compozit.pdb
+G:\c# progmodules\compozit\obj\Debug\net8.0\compozit.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# progmodules\compozit\obj\Debug\net8.0\compozit.AssemblyInfoInputs.cache
+G:\c# progmodules\compozit\obj\Debug\net8.0\compozit.AssemblyInfo.cs
+G:\c# progmodules\compozit\obj\Debug\net8.0\compozit.csproj.CoreCompileInputs.cache
+G:\c# progmodules\compozit\obj\Debug\net8.0\compozit.dll
+G:\c# progmodules\compozit\obj\Debug\net8.0\refint\compozit.dll
+G:\c# progmodules\compozit\obj\Debug\net8.0\compozit.pdb
+G:\c# progmodules\compozit\obj\Debug\net8.0\compozit.genruntimeconfig.cache
+G:\c# progmodules\compozit\obj\Debug\net8.0\ref\compozit.dll
