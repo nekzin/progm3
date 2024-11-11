@@ -1,0 +1,14 @@
+G:\c# progmodules\Decoratorrr\bin\Debug\net8.0\Decoratorrr.exe
+G:\c# progmodules\Decoratorrr\bin\Debug\net8.0\Decoratorrr.deps.json
+G:\c# progmodules\Decoratorrr\bin\Debug\net8.0\Decoratorrr.runtimeconfig.json
+G:\c# progmodules\Decoratorrr\bin\Debug\net8.0\Decoratorrr.dll
+G:\c# progmodules\Decoratorrr\bin\Debug\net8.0\Decoratorrr.pdb
+G:\c# progmodules\Decoratorrr\obj\Debug\net8.0\Decoratorrr.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# progmodules\Decoratorrr\obj\Debug\net8.0\Decoratorrr.AssemblyInfoInputs.cache
+G:\c# progmodules\Decoratorrr\obj\Debug\net8.0\Decoratorrr.AssemblyInfo.cs
+G:\c# progmodules\Decoratorrr\obj\Debug\net8.0\Decoratorrr.csproj.CoreCompileInputs.cache
+G:\c# progmodules\Decoratorrr\obj\Debug\net8.0\Decoratorrr.dll
+G:\c# progmodules\Decoratorrr\obj\Debug\net8.0\refint\Decoratorrr.dll
+G:\c# progmodules\Decoratorrr\obj\Debug\net8.0\Decoratorrr.pdb
+G:\c# progmodules\Decoratorrr\obj\Debug\net8.0\Decoratorrr.genruntimeconfig.cache
+G:\c# progmodules\Decoratorrr\obj\Debug\net8.0\ref\Decoratorrr.dll
