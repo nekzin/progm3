@@ -1,0 +1,14 @@
+D:\c# progmodules\flyweight\bin\Debug\net8.0\flyweight.exe
+D:\c# progmodules\flyweight\bin\Debug\net8.0\flyweight.deps.json
+D:\c# progmodules\flyweight\bin\Debug\net8.0\flyweight.runtimeconfig.json
+D:\c# progmodules\flyweight\bin\Debug\net8.0\flyweight.dll
+D:\c# progmodules\flyweight\bin\Debug\net8.0\flyweight.pdb
+D:\c# progmodules\flyweight\obj\Debug\net8.0\flyweight.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# progmodules\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfoInputs.cache
+D:\c# progmodules\flyweight\obj\Debug\net8.0\flyweight.AssemblyInfo.cs
+D:\c# progmodules\flyweight\obj\Debug\net8.0\flyweight.csproj.CoreCompileInputs.cache
+D:\c# progmodules\flyweight\obj\Debug\net8.0\flyweight.dll
+D:\c# progmodules\flyweight\obj\Debug\net8.0\refint\flyweight.dll
+D:\c# progmodules\flyweight\obj\Debug\net8.0\flyweight.pdb
+D:\c# progmodules\flyweight\obj\Debug\net8.0\flyweight.genruntimeconfig.cache
+D:\c# progmodules\flyweight\obj\Debug\net8.0\ref\flyweight.dll
