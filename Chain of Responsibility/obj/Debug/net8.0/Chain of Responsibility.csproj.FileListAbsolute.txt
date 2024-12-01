@@ -1,0 +1,14 @@
+D:\c# progmodules\Chain of Responsibility\bin\Debug\net8.0\Chain of Responsibility.exe
+D:\c# progmodules\Chain of Responsibility\bin\Debug\net8.0\Chain of Responsibility.deps.json
+D:\c# progmodules\Chain of Responsibility\bin\Debug\net8.0\Chain of Responsibility.runtimeconfig.json
+D:\c# progmodules\Chain of Responsibility\bin\Debug\net8.0\Chain of Responsibility.dll
+D:\c# progmodules\Chain of Responsibility\bin\Debug\net8.0\Chain of Responsibility.pdb
+D:\c# progmodules\Chain of Responsibility\obj\Debug\net8.0\Chain of Responsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# progmodules\Chain of Responsibility\obj\Debug\net8.0\Chain of Responsibility.AssemblyInfoInputs.cache
+D:\c# progmodules\Chain of Responsibility\obj\Debug\net8.0\Chain of Responsibility.AssemblyInfo.cs
+D:\c# progmodules\Chain of Responsibility\obj\Debug\net8.0\Chain of Responsibility.csproj.CoreCompileInputs.cache
+D:\c# progmodules\Chain of Responsibility\obj\Debug\net8.0\Chain of Responsibility.dll
+D:\c# progmodules\Chain of Responsibility\obj\Debug\net8.0\refint\Chain of Responsibility.dll
+D:\c# progmodules\Chain of Responsibility\obj\Debug\net8.0\Chain of Responsibility.pdb
+D:\c# progmodules\Chain of Responsibility\obj\Debug\net8.0\Chain of Responsibility.genruntimeconfig.cache
+D:\c# progmodules\Chain of Responsibility\obj\Debug\net8.0\ref\Chain of Responsibility.dll
