@@ -1,0 +1,14 @@
+G:\c# progmodules\Strategy\bin\Debug\net8.0\Strategy.exe
+G:\c# progmodules\Strategy\bin\Debug\net8.0\Strategy.deps.json
+G:\c# progmodules\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+G:\c# progmodules\Strategy\bin\Debug\net8.0\Strategy.dll
+G:\c# progmodules\Strategy\bin\Debug\net8.0\Strategy.pdb
+G:\c# progmodules\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# progmodules\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+G:\c# progmodules\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+G:\c# progmodules\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+G:\c# progmodules\Strategy\obj\Debug\net8.0\Strategy.dll
+G:\c# progmodules\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+G:\c# progmodules\Strategy\obj\Debug\net8.0\Strategy.pdb
+G:\c# progmodules\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+G:\c# progmodules\Strategy\obj\Debug\net8.0\ref\Strategy.dll
