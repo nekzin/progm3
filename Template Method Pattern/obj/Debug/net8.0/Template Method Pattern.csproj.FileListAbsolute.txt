@@ -1,0 +1,14 @@
+G:\c# progmodules\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.exe
+G:\c# progmodules\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.deps.json
+G:\c# progmodules\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.runtimeconfig.json
+G:\c# progmodules\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.dll
+G:\c# progmodules\Template Method Pattern\bin\Debug\net8.0\Template Method Pattern.pdb
+G:\c# progmodules\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\c# progmodules\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.AssemblyInfoInputs.cache
+G:\c# progmodules\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.AssemblyInfo.cs
+G:\c# progmodules\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.csproj.CoreCompileInputs.cache
+G:\c# progmodules\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.dll
+G:\c# progmodules\Template Method Pattern\obj\Debug\net8.0\refint\Template Method Pattern.dll
+G:\c# progmodules\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.pdb
+G:\c# progmodules\Template Method Pattern\obj\Debug\net8.0\Template Method Pattern.genruntimeconfig.cache
+G:\c# progmodules\Template Method Pattern\obj\Debug\net8.0\ref\Template Method Pattern.dll
